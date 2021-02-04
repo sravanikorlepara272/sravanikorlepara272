@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Git and GitHub
 - 📫 How to reach me:sravanikorlepara272@gmail.com
 - 😄 I am active in sports 
-- ⚡ Fun fact:still thinking 
+- ⚡ Fun fact:still thinking ..
 
